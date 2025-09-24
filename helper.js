@@ -12,7 +12,14 @@ function validateNumber(val) {
     return true;
 }
 
+const getCurrentPrice = (stockSymbol) => {
+  const prices = { AAPL: 105, GOOG: 210, MSFT: 155, TSLA: 310 };
+  return prices[stockSymbol] || 0;
+};
+
+
 module.exports = {
     validateStockName,
-    validateNumber
+    validateNumber,
+    getCurrentPrice
 };

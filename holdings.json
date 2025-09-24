@@ -1,0 +1,30 @@
+{
+  "1": [
+    { "stocksSymbol": "AAPL", "quantity": 10, "avgBuyPrice": 100 },
+    { "stocksSymbol": "GOOG", "quantity": 5, "avgBuyPrice": 200 },
+    { "stocksSymbol": "MSFT", "quantity": 15, "avgBuyPrice": 150 },
+    { "stocksSymbol": "TSLA", "quantity": 8, "avgBuyPrice": 300 }
+  ],
+  "2": [
+    { "stocksSymbol": "MSFT", "quantity": 8, "avgBuyPrice": 150 },
+    { "stocksSymbol": "NFLX", "quantity": 12, "avgBuyPrice": 220 },
+    { "stocksSymbol": "AMZN", "quantity": 6, "avgBuyPrice": 350 }
+  ],
+  "3": [
+    { "stocksSymbol": "TSLA", "quantity": 12, "avgBuyPrice": 300 },
+    { "stocksSymbol": "AAPL", "quantity": 5, "avgBuyPrice": 110 },
+    { "stocksSymbol": "GOOG", "quantity": 7, "avgBuyPrice": 210 },
+    { "stocksSymbol": "FB", "quantity": 10, "avgBuyPrice": 180 }
+  ],
+  "4": [
+    { "stocksSymbol": "AAPL", "quantity": 20, "avgBuyPrice": 95 },
+    { "stocksSymbol": "TSLA", "quantity": 5, "avgBuyPrice": 310 },
+    { "stocksSymbol": "NVDA", "quantity": 8, "avgBuyPrice": 400 },
+    { "stocksSymbol": "AMZN", "quantity": 2, "avgBuyPrice": 360 }
+  ],
+  "5": [
+    { "stocksSymbol": "GOOG", "quantity": 3, "avgBuyPrice": 205 },
+    { "stocksSymbol": "MSFT", "quantity": 10, "avgBuyPrice": 155 },
+    { "stocksSymbol": "FB", "quantity": 7, "avgBuyPrice": 185 }
+  ]
+}
